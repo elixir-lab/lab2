@@ -62,9 +62,9 @@ defmodule Hangman.Game do
   # Things that might be useful:
   #
   # `Map.put` adds a key/value pair to a map or struct
-  # `MapSet.out` adds an entry to a set
+  # `MapSet.put` adds an entry to a set
   # `MapSet.new(list)` creates a new set containing those elements
-  # `MapSet.subset(a, b)` returns true if `a` is a subset of `b`
+  # `MapSet.subset?(a, b)` returns true if `a` is a subset of `b`
   #
   # I suggest making one test at a time pass.
 
